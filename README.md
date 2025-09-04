@@ -24,8 +24,10 @@ Olá! Meu nome é **Gabriel Rosa**, tenho 17 anos e sou aluno do _COTIL (Colégi
 
 ` O código abaixo é um clássico Hello World em C.`
 
-``` #include <stdio.h>
+``` 
+#include <stdio.h>
 int main (){
     printf("Hello World");
     return 0;
-} ```
+}
+ ```
